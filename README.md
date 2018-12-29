@@ -1,5 +1,6 @@
 # Face-Recognition-Using-dlib-PIL
 Face-Recognition-Using-dlib-PIL(Steps)
+
 Step 1 : Face Detection(There can be multiple people in the image. So 1st Step corresponds to detcting all the faces in an image).
 
 Step 2 : Face Landmark Detection(This corresponds to finding the face landmarks like the eyes, nose, lips, etc). Aligning faces if faces are rotated a little sideways and then detecting the landmarks.
